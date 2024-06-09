@@ -21,7 +21,7 @@ To predict the occurrence of heart disease based on health parameters. This is a
 6. **Model Evaluation**   - Assessed models using accuracy, classification reports, and confusion matrices and compared model accuracies visually.
 
 #### Conclusion
-The project demonstrates how machine learning can predict heart disease, improving early detection and health outcomes.
+The project demonstrates how machine learning can predict heart disease, improving early detection and health outcomes. Among all the models, K-Nearest Neighbours performed best with an accuracy of 90%.
 
 #### Dataset
 Available on Kaggle (https://www.kaggle.com/datasets/rashikrahmanpritom/heart-attack-analysis-prediction-dataset/data).
